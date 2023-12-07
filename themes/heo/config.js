@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://qtv.smallhouse.com.cn' },
-    { title: '欢迎来到我的技术博客', url: 'https://blog.tvwei.myds.me' }
+    { title: '欢迎来到我的技术博客', url: 'https://blog.tvwei.myds.me:520' }
   ],
 
   // 英雄区(首页顶部大卡)
